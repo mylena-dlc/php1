@@ -1,6 +1,8 @@
 # php1
 Exercice formation PHP - introduction à PHP grâce à 15 exercices.
+
 1- Algorithme permettant de compter le nombre de caractères d'une phrase
+
 2- Algorithme permettant de compter le nombre de mots d'une phrase
 3- Algorithme permettant de remplacer un mot dans une phrase
 4- Algorithme permettant de savoir si une phrase est palindrome ou non
